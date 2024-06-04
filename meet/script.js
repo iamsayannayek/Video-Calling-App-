@@ -3,9 +3,9 @@ let client = AgoraRTC.createClient({ mode: "rtc", codec: "vp8" });
 
 //#2
 let config = {
-  appid: "c5e51803f87c4184b840c197257d67d6",
+  appid: "c6f0813b50dd4f43922dfd330e162408",
   token:
-    "007eJxTYKj+7ZY3i6vNfeb6U6/3P/ZaV7/ghaTlUpPFQkxtncZaf3sUGJJNU00NLQyM0yzMk00MLUySLEwMkg0tzY1MzVPMgCjTOTO1IZCR4eevE8yMDBAI4vMwZOYWJ1Ym5uUlVqZmMzAAAIQgI1k=",
+    "007eJxTYNg/9y3vxbVptxzPPA6pPC7yWXtFwNoHVYH6rRFKCmte2EkoMCSbpRlYGBonmRqkpJikmRhbGhmlpKUYGxukGpoZmRhYBIXFpzUEMjKcWH2fhZEBAkF8HobM3OLEysS8vMTK1GwGBgCtjyNq",
   uid: null,
   channel: "imsayannayek",
 };
